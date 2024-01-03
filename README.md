@@ -1,4 +1,4 @@
-![image](https://github.com/Supraja0510/Mean-and-Variance/assets/155217478/4a37b3e1-de9c-48a1-a61e-0e27b134cc56)#  Mean and variance of a discrete  distribution
+ #  Mean and variance of a discrete  distribution
 
 
 # Aim : 
